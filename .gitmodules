@@ -1,0 +1,12 @@
+[submodule ".tmux/plugins/tmux-resurrect"]
+	path = .tmux/plugins/tmux-resurrect
+	url = git@github.com:tmux-plugins/tmux-resurrect.git
+	branch = master
+[submodule ".tmux/plugins/tmux-continuum"]
+	path = .tmux/plugins/tmux-continuum
+	url = git@github.com:tmux-plugins/tmux-continuum.git
+	branch = master
+[submodule ".tmux/plugins/tmux"]
+	path = .tmux/plugins/tmux
+	url = git@github.com:catppuccin/tmux.git
+	branch = main
